@@ -1,0 +1,16 @@
+Hello Michigan Software Team!
+
+I would like every one of you to upload a text file called <yourname>.txt.
+
+In this file I would like you to put some basic info about yourself, like:
+
+age
+year
+major / minor
+favorite hobby
+a cool fact about you
+
+Then, once you are done, I want you to push the file to the git repo!
+We will walk you through the process, and if you have any trouble, please ask for some help!
+
+*Make sure your file name is unique! It could cause some problems if there are repeats.
